@@ -1,0 +1,4 @@
+*.pyc
+*.npy
+d2vModel
+__pycache__
